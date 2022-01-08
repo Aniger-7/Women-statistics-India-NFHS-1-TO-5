@@ -22,7 +22,9 @@ Analyzing trends in health and education of women with respect to changing age o
 Drawing insights using visualizations on Tableau.
 
 **Step 5** : Share
-Prepare final report presenting key findings in a lucid and complelling way. 
+Prepare final report presenting key findings in a lucid and compelling way. 
+
+**Full Report**- https://regmehta23.medium.com/the-age-of-marriage-debate-703094334d8f
 
 
 
